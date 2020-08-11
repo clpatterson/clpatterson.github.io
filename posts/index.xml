@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Charlie Patterson</title>
+    <link>https://clpatterson.github.io/posts/</link>
+    <description>Recent content in Posts on Charlie Patterson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2020 Charlie Patterson</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 15:17:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://clpatterson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://clpatterson.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 06 Aug 2020 15:17:40 -0400</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/my-first-post/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+  </channel>
+</rss>
