@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2020 Charlie Patterson</copyright>
-    <lastBuildDate>Thu, 06 Aug 2020 15:17:40 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 18:48:35 +0000</lastBuildDate>
     
 	<atom:link href="https://clpatterson.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,16 +18,61 @@
       <pubDate>Fri, 07 Aug 2020 14:46:34 -0400</pubDate>
       
       <guid>https://clpatterson.github.io/about/</guid>
-      <description>I&amp;rsquo;m a Brooklyn, NY based Software Engineer and Mandarin speaker. I&amp;rsquo;ve scraped the Chinese web for Asia Society, helped setup data warehouses on Google Cloud and built Looker deployments from the ground up as a data engineer consultant at Myers-Holum, and now I&amp;rsquo;m at Recurse Center becoming a better programmer.</description>
+      <description>I&amp;rsquo;m a Brooklyn, NY based Software Engineer and Mandarin speaker. I&amp;rsquo;ve scraped the Chinese web for Asia Society, helped setup data warehouses on Google Cloud and lead Looker deployments as a data engineer consultant at Myers-Holum, and now I&amp;rsquo;m at Recurse Center becoming a better programmer.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://clpatterson.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Aug 2020 15:17:40 -0400</pubDate>
+      <title>Getting Acquainted with HTTP</title>
+      <link>https://clpatterson.github.io/posts/pattersoncharlesl/getting-acquainted-with-http-2cb728aaae9b/</link>
+      <pubDate>Mon, 01 Jun 2020 18:48:35 +0000</pubDate>
       
-      <guid>https://clpatterson.github.io/posts/my-first-post/</guid>
-      <description>This is a test post.</description>
+      <guid>https://clpatterson.github.io/posts/pattersoncharlesl/getting-acquainted-with-http-2cb728aaae9b/</guid>
+      <description>Tim Berners Lee, the leader of a group at CERN that developed http, looking fondly upon his creation at work.</description>
+    </item>
+    
+    <item>
+      <title>Recurse Center: Day 25</title>
+      <link>https://clpatterson.github.io/posts/pattersoncharlesl/recurse-center-day-25-f1c2648cfec6/</link>
+      <pubDate>Thu, 23 Apr 2020 16:52:09 +0000</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/pattersoncharlesl/recurse-center-day-25-f1c2648cfec6/</guid>
+      <description>Four weeks of (Virtual) Recurse Center will have pasted Friday. How has the experience been so far? Am I getting the most out of RC?</description>
+    </item>
+    
+    <item>
+      <title>Recurse Center: Day 1</title>
+      <link>https://clpatterson.github.io/posts/pattersoncharlesl/recurse-center-day-1-c9b621ac70dc/</link>
+      <pubDate>Tue, 31 Mar 2020 01:33:38 +0000</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/pattersoncharlesl/recurse-center-day-1-c9b621ac70dc/</guid>
+      <description>This is the first in a series of posts to record and reflect on my experience at Recurse Center(RC) in NYC (now virtual).</description>
+    </item>
+    
+    <item>
+      <title>Counting Files and Comparing Directories in Linux</title>
+      <link>https://clpatterson.github.io/posts/pattersoncharlesl/counting-files-and-comparing-directories-in-linux-bfd3af0a2e8c/</link>
+      <pubDate>Fri, 12 Jul 2019 16:12:42 +0000</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/pattersoncharlesl/counting-files-and-comparing-directories-in-linux-bfd3af0a2e8c/</guid>
+      <description>I’ve been exploring the /usr directory as a part of a mission to better understand the Linux Filesystem Hierarchy Standard — the topography of the modern server.</description>
+    </item>
+    
+    <item>
+      <title>Using Regex for Messy Webscraping</title>
+      <link>https://clpatterson.github.io/posts/using-regex-for-messy-webscraping/</link>
+      <pubDate>Thu, 12 Jul 2018 15:36:17 -0400</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/using-regex-for-messy-webscraping/</guid>
+      <description>People have strong feelings about using regex for parsing html. I understand. When things are as they should be, scraping html using xpaths or css selectors is way better.</description>
+    </item>
+    
+    <item>
+      <title>Deduplication with Fuzzywuzzy and Stanford CoreNLP</title>
+      <link>https://clpatterson.github.io/posts/deduplication_with_fuzzywuzzy/</link>
+      <pubDate>Wed, 21 Mar 2018 15:55:54 -0400</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/deduplication_with_fuzzywuzzy/</guid>
+      <description>Find and eliminating duplicates is an important part of data collection. For a few weeks now I’ve been helping an organization in New York collect official reports on corruption in China.</description>
     </item>
     
   </channel>
