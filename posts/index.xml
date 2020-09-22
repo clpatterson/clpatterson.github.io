@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2020 Charlie Patterson</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 18:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 13:51:25 -0400</lastBuildDate>
     
 	<atom:link href="https://clpatterson.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sorting an Array by Absolute Value</title>
+      <link>https://clpatterson.github.io/posts/pramp_interview_1/</link>
+      <pubDate>Thu, 17 Sep 2020 13:51:25 -0400</pubDate>
+      
+      <guid>https://clpatterson.github.io/posts/pramp_interview_1/</guid>
+      <description>I tried out Pramp this morning and encountered an interesting question. The question can be solved with one line of code or by implementing a sorting algorithm.</description>
+    </item>
     
     <item>
       <title>Getting Acquainted with HTTP</title>
